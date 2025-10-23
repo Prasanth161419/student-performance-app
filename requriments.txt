@@ -2,3 +2,6 @@ streamlit
 scikit-learn
 joblib
 pandas
+matplotlib
+seaborn
+warnings
